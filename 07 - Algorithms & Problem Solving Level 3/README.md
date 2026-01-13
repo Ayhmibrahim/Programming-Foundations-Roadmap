@@ -1,40 +1,44 @@
-# 🧠 07 - Algorithms & Problem Solving – Level 3
+# 📘 07 - Algorithms & Problem-Solving – Level 3 (Programming Advices)
 
-> **"You don't become a programmer by learning more; you become one by practicing more."** 🚀
+🎉 I’m excited to share that I’ve completed the **07 – Algorithms & Problem Solving Level 3** course from [AbouHadhood Platform](https://programmingadvices.com/). 🏆  
 
-📌 This repository documents the seventh stage of my journey. This level is where accumulated knowledge transforms into **Programming Maturity**. I tackled 51 new challenges and built two core educational projects to simulate real-world data management.
-
-## 🗝️ About This Level (The Bridge to Maturity)
-This level focuses on applying advanced C++ knowledge into complex logic, moving from solving isolated problems to building integrated educational systems.
-
-### 1️⃣ Advanced Problem Solving (51 Challenges)
-* **Increased Complexity:** Tackled **51 new programming problems**, specifically selected to be more challenging than Level 2.
-* **Pattern Recognition:** Developed a deeper ability to recognize complex problem patterns and apply efficient solution strategies.
-* **Decomposition:** Refined the art of breaking down large problems into small, manageable units (Divide & Conquer).
-
-### 2️⃣ Programming Maturity & Speed
-* **Pressure Testing:** Applied everything learned in previous courses under the pressure of harder algorithmic logic.
-* **Accuracy & Confidence:** Improved speed and accuracy, moving from "guessing" to "applying experience."
-* **Clean Code Consistency:** Maintained professional clean code standards even when the logic became highly complex.
-
-### 3️⃣ Practical Educational Projects
-* **Project 1: Bank System (Version 1)**
-  * A foundational project focused on core data operations, user interaction, and structured data handling.
-* **Project 2: Bank System Extension**
-  * An advanced extension of the first project, introducing more complex features and refining the system's logic and scalability.
-* **Logic Integration:** These projects served as a bridge, integrating **20+ programming concepts** (Structs, Enums, File Handling, and Logic Validation) into a functional educational system.
-
-### 4️⃣ Experience vs. Theory
-* **Practice-Heavy Learning:** Focused on exposure to professional solutions to learn techniques that theory alone cannot provide.
-* **Repetition & Reflection:** Built a solid foundation of experience through repeated practice and constant refinement of my approaches.
-
-## 🚀 Final Outcome
-By completing this level, I have reached a stage of **Programming Maturity**. I am now able to:
-- ✅ Handle complexity with confidence and structure.
-- ✅ Solve advanced algorithmic problems independently.
-- ✅ Build integrated educational systems with clear architectural thinking.
-- ✅ Feel fully prepared for advanced software engineering and real-world systems.
+This repository contains **50 solved problems** from this level, each crafted to strengthen logical thinking, problem decomposition, and an efficiency mindset.
 
 ---
-**📂 Next Step:** ➡️ [Level 08: Algorithms & Problem Solving – Level 4](../08%20-%20Algorithms%20%26%20Problem%20Solving%20Level%204)
-*📌 "Experience is built through repetition, difficulty, and projects."*
+
+## 🚀 Course Overview
+Level 3 in the Abu Hadhoud series further challenged my problem-solving skills.  
+The main focus was tackling **50 progressively challenging algorithmic problems**, each enhancing:
+- Logical structuring
+- Code efficiency
+- Reusable functions design
+
+---
+
+## 💡 Key Highlights
+- 🔹 **Breaking down complex tasks** into clean, reusable functions—each with a single, well-defined purpose.
+- 🔹 Writing **optimised code** under real constraints, not just theoretical ones.
+- 🔹 Gaining valuable practice with **debugging**, edge cases, and performance considerations.
+- 🔹 Wrapping it all up with **two hands-on projects** that solidified learning and produced real-world-ready code.
+
+---
+
+
+---
+
+## 🛠 Technologies Used
+- **Language:** C++
+- **Paradigm:** Structured Programming
+- **Tools:** VS Code / Dev-C++, Git, GitHub
+
+---
+
+## 🔜 Next Steps
+After completing this level, I progressed to **08 - Algorithms & Problem Solving Level 4**, which introduced even more advanced problem sets and concepts.
+
+---
+
+## 📬 Connect
+- **GitHub:** [AhmedYaser-Mt](https://github.com/AhmedYaser-Mt)
+- **LinkedIn:** [Ahmed Yasser](https://www.linkedin.com/in/ahmed-yaser-mt)
+
