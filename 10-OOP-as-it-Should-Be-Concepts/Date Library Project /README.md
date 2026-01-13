@@ -18,9 +18,9 @@ After completing 9 foundational levels in algorithms, problem-solving, and clean
 The projects and exercises are organized to demonstrate the application of all core OOP concepts:
 
 ### 🚀 Major Libraries:
-* **[String Library Project](./%20%20String%20Library%20Project)**: A comprehensive utility class for advanced string manipulation, evolved from Level 7 logic.
-* **[Date Library Project](./Date%20Library%20Project)**: A robust date management engine based on solving over 60 challenges in Level 8.
-* **[Period Class Project](./%20%20Period%20Class%20Project)**: A practical application of **Composition**, managing time intervals using the Date class.
+* **[String Library Project](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/10-OOP-as-it-Should-Be-Concepts/%20%20String%20Library%20Project)**: A comprehensive utility class for advanced string manipulation, evolved from Level 7 logic.
+* **[Date Library Project](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/10-OOP-as-it-Should-Be-Concepts/Date%20Library%20Project)**: A robust date management engine based on solving over 60 challenges in Level 8.
+* **[Period Class Project](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/10-OOP-as-it-Should-Be-Concepts/%20%20Period%20Class%20Project)**: A practical application of **Composition**, managing time intervals using the Date class.
 
 ### 📝 Exercises & Practical Applications:
 * **Calculator Project**: Applying basic OOP principles to build a structured calculator.
