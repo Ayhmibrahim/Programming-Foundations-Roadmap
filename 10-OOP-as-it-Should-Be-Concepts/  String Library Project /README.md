@@ -1,42 +1,42 @@
-# مشروع مكتبة النصوص (تطبيق البرمجة كائنية التوجه OOP) 🧵
+# String Library Project (OOP Implementation) 🧵
 
-## 🌟 نظرة عامة
-يمثل هذا المشروع محطة هامة جداً في رحلتي البرمجية؛ فهو عبارة عن **مكتبة أدوات متكاملة للنصوص** تربط بين البرمجة الإجرائية (Functional) والبرمجة كائنية التوجه (OOP).
+## 🌟 Overview
+This project represents a significant milestone in my programming journey. It is a comprehensive **String Utility Library** that bridges the gap between functional programming and **Object-Oriented Programming (OOP)**.
 
-تم تطوير المنطق الأساسي لهذه المكتبة في الأصل خلال **المستوى السابع** (خوارزميات وحل المشكلات - المستوى الثالث)، وتمت إعادة هيكلتها وتطويرها هنا في **المستوى العاشر** لتطبيق مفاهيم "البرمجة كائنية التوجه كما يجب أن تكون".
+The core logic of this library was originally developed during **Level 7** (Algorithms & Problem Solving - Level 3), and it has been refactored and enhanced here in **Level 10** to adhere to "OOP as it should be" concepts.
 
-## 📈 التطور: من المستوى السابع إلى المستوى العاشر
-* **جذور المستوى السابع**: في المستوى السابع، قمت ببناء هذه الدوال كأدوات مستقلة لحل مشكلات معقدة في معالجة النصوص. يمكنك رؤية المنطق الأساسي الذي بدأت به هنا:
-  🔗 [رابط مشروعي في المستوى السابع (Algorithms & Problem Solving Level 3)](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/07%20-%20Algorithms%20%26%20Problem%20Solving%20Level%203)
-* **إعادة الهيكلة في المستوى العاشر**: في هذا المستوى، قمت بتغليف تلك الدوال داخل كلاس `clsString` لتعمل ككائن متكامل.
-* **تعدد الاستخدام**: توفر المكتبة الآن طرق استدعاء مباشرة (Static Methods) وأخرى عبر الكائنات (Non-Static Methods).
+## 📈 Evolution: From Level 7 to Level 10
+* **Level 7 Roots**: In Level 7, I built these functions as standalone procedural tools to solve complex string manipulation problems. You can view the original logic I started with here:
+  🔗 [My Level 7 Project Link (Algorithms & Problem Solving Level 3)](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/07%20-%20Algorithms%20%26%20Problem%20Solving%20Level%203)
+* **Level 10 Refactoring**: In this level, I encapsulated those functions into the `clsString` class to function as an integrated object.
+* **Versatility**: The library now provides both **Static Methods** (utility style) and **Non-Static Methods** (object-oriented style).
 
-## 📂 هيكل المشروع
-* **`String-Library-Project-My-Solution`**: يحتوي على تطبيقي الشخصي، بما في ذلك أداة المساعدة `clsStringIO`.
-* **`String-Library-Project-Instructor-Solution`**: الحل المرجعي المقدم من الأستاذ للمقارنة وتحسين الأداء.
+## 📂 Project Structure
+* **`String-Library-Project-My-Solution`**: Contains my personal implementation, including the `clsStringIO` helper utility.
+* **`String-Library-Project-Instructor-Solution`**: The instructor's reference solution for comparison and performance optimization.
 
-## 🛠 الميزات الأساسية (المطورة من المستوى السابع)
-يتضمن كلاس `clsString` جميع الأدوات التي قمت بتطويرها سابقاً، والآن أصبحت متاحة بواجهة OOP:
-- **تقسيم النصوص (Tokenization)**: طريقة `Split` المتقدمة لتحويل النصوص إلى قائمة كلمات (vector).
-- **معالجة الكلمات**: حساب عدد الكلمات، عكس ترتيب الكلمات، واستخراج الحرف الأول من كل كلمة.
-- **التحكم في حالة الأحرف**: تحويل النص بالكامل للأحرف الكبيرة أو الصغيرة أو عكس حالة الأحرف لكل النص.
-- **تنظيف النصوص (Trimming)**: وظائف دقيقة لإزالة المسافات الزائدة من اليمين أو اليسار أو الجانبين.
-- **البحث والاستبدال الذكي**: استبدال الكلمات مع خيارات التحكم في الحساسية لحالة الأحرف.
+## 🛠 Key Features (Developed since Level 7)
+The `clsString` class includes all the tools I previously developed, now accessible through an OOP interface:
+- **Tokenization**: Advanced `Split` method to convert strings into a `vector<string>`.
+- **Word Processing**: Count words, reverse word order, and extract the first letter of each word.
+- **Case Control**: `UpperAll`, `LowerAll`, and `InvertAllLettersCase` for flexible text formatting.
+- **Trimming**: Precise `TrimLeft`, `TrimRight`, and `Full Trim` to clean up strings.
+- **Search & Replace**: Intelligent word replacement with case-sensitivity options.
 
-## 💻 كيفية التشغيل
-لاستخدام هذه المكتبة، تأكد من وجود ملف `clsString.h` في مجلد مشروعك.
+## 💻 How to Run
+To use this library, ensure that the `clsString.h` file is in your project directory.
 
 ```cpp
 #include <iostream>
 #include "clsString.h"
 
 int main() {
-    // إنشاء كائن باستخدام منطق تم تطويره من المستوى السابع
+    // Creating an object using logic developed since Level 7
     clsString S1("Programming Advices - Level 10");
 
     cout << "Word Count: " << S1.CountWords() << endl;
     
-    // استخدام الطريقة المباشرة (Static)
+    // Using the static method
     vector<string> vWords = clsString::Split("Welcome to OOP", " ");
     
     return 0;
