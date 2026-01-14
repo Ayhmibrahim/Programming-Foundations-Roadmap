@@ -2,7 +2,7 @@
 
 > **"Mastering the basics is what creates a proficient programmer."** 🧠
 
-📌 This repository documents my educational journey in building a solid foundation in Computer Science and Programming, following the **"Programming Advices"** methodology. The goal is to evolve from understanding simple code to solving complex problems and building structured applications.
+📌 This repository documents my educational journey in building a solid foundation in Computer Science and Programming, following the official **[Programming Advices Roadmap](https://programmingadvices.com/p/roadmaps)**. The goal is to evolve from understanding simple code to solving complex problems and building structured applications.
 
 ---
 
@@ -35,7 +35,7 @@
 ## 📂 Repository Content
 Each level within this roadmap contains:
 1. **Source Code:** Solutions to programming challenges and exercises.
-2. **Projects:** Functional Systems that integrate everything learned in the level.
+2. **Projects:** **Functional Systems** that integrate everything learned in the level.
 3. **Certificates:** Official documentation for completing each stage.
 
 ---
