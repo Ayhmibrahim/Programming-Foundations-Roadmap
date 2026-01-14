@@ -9,18 +9,22 @@ At this stage, I moved from learning "how to write code" to "how to use code to 
 
 ### 1️⃣ String Mastery
 * **Full Control:** Learned to split, join, and modify strings professionally, building custom functions to handle complex text processing.
-* **Pattern Recognition:** Gained the ability to identify and process text patterns, a fundamental skill for building search engines and data processing systems.
+* **Pattern Recognition:** Gained the ability to identify and process text patterns.
 
 ### 2️⃣ 2D Arrays & Matrices
-* **Complex Data:** Learned how to represent and manipulate data in tables (rows and columns) and perform advanced mathematical and logical operations on them.
-* **Spatial Thinking:** Developed the ability to visualize data flow within matrices, which is essential for building games and computational systems.
+* **Complex Data:** Learned how to represent and manipulate data in tables (rows and columns) and perform advanced mathematical operations.
+* **Spatial Thinking:** Developed the ability to visualize data flow within matrices.
 
-### 3️⃣ The 51-Problem Challenge & Projects
-* **Experience through Repetition:** Solved 51 new programming problems, each adding a new "technique" to my logical thinking toolkit.
-* **Project Mindset:** Moving beyond isolated problems, the level concluded with building **integrated projects** that simulate reality, reinforcing my ability to link multiple algorithms together.
+---
 
-### 4️⃣ Clean Code & Divide & Conquer
-* **Professionalism:** Continued applying Clean Code principles, mastering the fact that solving a large problem always begins by breaking it down into small, simple, and reusable functions.
+## 🛠️ Main Projects (The Practical Outcome)
+These projects represent the transition from solving isolated problems to building complete, logic-driven systems:
+
+* **🚀 [Project 1: Bank System](./../07-Algorithms-Level-3-Bank-Project)** *A comprehensive bank management system focusing on data handling, client records, and core banking logic.*
+  
+* **🚀 [Project 2: Bank System - Extension](./../Project-2---Bank-Extension---Level-7)** *An advanced extension of the bank system, implementing more complex features and deeper data manipulation.*
+
+---
 
 ## 🚀 Final Outcome
 By completing this level, I have gained real-world practical experience that qualifies me to:
@@ -30,5 +34,5 @@ By completing this level, I have gained real-world practical experience that qua
 - ✅ Transition from a "coder" to a "solution architect" with a clear vision of problem-solving.
 
 ---
-**📂 Next Step:** ➡️ [Level 08: Algorithms & Problem Solving – Level 4](../08%20-%20Algorithms%20%26%20Problem-Solving%20Level%204)
+**📂 Next Step:** ➡️ [Level 08: Algorithms & Problem Solving – Level 4](../08%20-%20Algorithms%20%26%20Problem%20Solving%20Level%204)
 *📌 "Don't just write code; build solutions with it."*
