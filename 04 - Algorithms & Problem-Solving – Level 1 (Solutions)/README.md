@@ -24,6 +24,8 @@ At this stage, solving the problem was no longer enough. The challenge was: **Ho
 * **The 50 Problems Revisited:** Every single problem was re-solved using professional-grade structure.
 * **Thinking in Systems:** I stopped being a "code writer" and started thinking like a software engineer who builds systems.
 
+---
+
 ## 🚀 Final Outcome
 By completing this level, my mindset toward code has changed permanently. I am now able to:
 - ✅ Control my code instead of fearing its complexity.
@@ -31,7 +33,7 @@ By completing this level, my mindset toward code has changed permanently. I am n
 - ✅ Understand and apply the "Professional Way" of writing functions.
 
 ## 🎓 Certification
-This level concludes with a **Professional Certificate in Clean Code Solutions**, verifying my ability to design modular, reusable, and maintainable software.
+* **View Certificate:** 🏆 [Certificate of Completion - Algorithms & Problem-Solving Level 1 (Solutions)](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/blob/main/04%20-%20Algorithms%20%26%20Problem-Solving%20%E2%80%93%20Level%201%20(Solutions)/certificate-of-completion-for-algorithms-problem-solving-level-1-solutions.pdf)
 
 ---
 **📂 Next Step:** ➡️ [Level 05: Algorithms & Problem-Solving – Level 2](../05%20-%20Algorithms%20%26%20Problem-Solving%20%E2%80%93%20Level%202)
