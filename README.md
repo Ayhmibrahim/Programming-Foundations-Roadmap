@@ -28,7 +28,7 @@
 | **08** | [الخوارزميات وحل المشكلات - المستوى الرابع](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/08%20-%20Algorithms%20%26%20Problem%20Solving%20Level%204) | ✅ تم الإنجاز |
 | **09** | [التأسيس البرمجي - المستوى الثاني](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/09%20-%20Foundations%20Level%202) | 🏗️ قيد التنفيذ |
 | **10** | [البرمجة الكائنية (OOP Concepts)](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/10-OOP-as-it-Should-Be-Concepts) | ✅ تم الإنجاز |
-| **11** | [هياكل البيانات (Data Structures)](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/11%20-%20Data%20Structures) | 🏗️ قيد التنفيذ |
+| **11** | [البرمجة الكائنية (OOP Applications)](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/11-OOP-as-it-Should-Be-Applications) | 🏗️ قيد التنفيذ |
 
 ---
 
