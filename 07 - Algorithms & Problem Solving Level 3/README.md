@@ -20,9 +20,11 @@ At this stage, I moved from learning "how to write code" to "how to use code to 
 ## 🛠️ Main Projects (The Practical Outcome)
 These projects represent the transition from solving isolated problems to building complete, logic-driven systems:
 
-* **🚀 [Project 1: Bank System](./../07-Algorithms-Level-3-Bank-Project)** *A comprehensive bank management system focusing on data handling, client records, and core banking logic.*
+* **🚀 [Project 1: Bank System](https://github.com/ammmrrr18-cloud/07-Algorithms-Level-3-Bank-Project)**
+  *A comprehensive bank management system focusing on data handling, client records, and core banking logic.*
   
-* **🚀 [Project 2: Bank System - Extension](./../Project-2---Bank-Extension---Level-7)** *An advanced extension of the bank system, implementing more complex features and deeper data manipulation.*
+* **🚀 [Project 2: Bank System - Extension](https://github.com/ammmrrr18-cloud/Project-2---Bank-Extension---Level-7)**
+  *An advanced extension of the bank system, implementing more complex features and deeper data manipulation.*
 
 ---
 
@@ -34,5 +36,5 @@ By completing this level, I have gained real-world practical experience that qua
 - ✅ Transition from a "coder" to a "solution architect" with a clear vision of problem-solving.
 
 ---
-**📂 Next Step:** ➡️ [Level 08: Algorithms & Problem Solving – Level 4](../08%20-%20Algorithms%20%26%20Problem%20Solving%20Level%204)
+**📂 Next Step:** ➡️ [Level 08: Algorithms & Problem Solving – Level 4](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/08%20-%20Algorithms%20%26%20Problem%20Solving%20Level%204)
 *📌 "Don't just write code; build solutions with it."*
