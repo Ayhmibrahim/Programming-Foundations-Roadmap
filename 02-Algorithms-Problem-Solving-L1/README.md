@@ -23,6 +23,8 @@ In this level, I learned that programming is **not** about a specific language; 
 * **50-Problem Challenge:** Solved 50 carefully selected problems to train my mind on different types of logic and reasoning.
 * **No Shortcuts:** Followed a strict methodology of logical analysis and step-by-step reasoning for every single problem.
 
+---
+
 ## 🚀 Final Outcome
 By completing this level, I developed a **Problem Solver’s Mindset**. I can now:
 - ✅ Approach any problem with confidence and structure.
@@ -30,7 +32,7 @@ By completing this level, I developed a **Problem Solver’s Mindset**. I can no
 - ✅ Build a rock-solid logical foundation that makes learning any language (like C++) much faster and deeper.
 
 ## 🎓 Certification
-This level concludes with a **Professional Certificate of Completion**, verifying my readiness to apply algorithmic thinking to real-world coding.
+* **View Certificate:** 🏆 [Certificate of Completion - Algorithms & Problem Solving Level 1](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/blob/main/02-Algorithms-Problem-Solving-L1/certificate-of-completion-for-algorithms-problem-solving-level-1.pdf)
 
 ---
 **📂 Next Step:** ➡️ [Level 03: Introduction to Programming with C++ – Level 1](../03%20-%20Introduction%20to%20Programming%20with%20C%2B%2B%20%E2%80%93%20Level%201)
