@@ -1,4 +1,3 @@
-
 # 💻 06 - Introduction to Programming Using C++ – Level 2
 
 > **"C++ becomes a power tool when you understand exactly why your code works."** 🧠
@@ -26,6 +25,13 @@ At this stage, I moved beyond basic syntax to understand the "under the hood" op
 * **File Streams:** Learned to read, write, update, and delete data using C++ File Handling.
 * **Error Management:** Implemented **Exception Handling** to build reliable and crash-resistant applications.
 * **Utilities:** Worked with Date, Time, and advanced string manipulation to handle real-world data types.
+
+---
+
+## 🎓 Certification
+* **View Certificate:** 🏆 [Certificate of Completion - Introduction to Programming Using C++ Level 2](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/blob/main/06%20-%20Introduction%20to%20Programming%20Using%20C%2B%2B%20Level%202/certificate-of-completion-for-introduction-to-programming-using-c-level-2.pdf)
+
+---
 
 ## 🚀 Final Outcome
 By completing this level, C++ has become a true power tool in my hands. I am now able to:
