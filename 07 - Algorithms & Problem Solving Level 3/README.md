@@ -31,6 +31,11 @@ These projects represent the practical application of string and file manipulati
 
 ---
 
+## 🎓 Certification
+* **View Certificate:** 🏆 [Certificate of Completion - Algorithms & Problem-Solving Level 3](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/blob/main/07%20-%20Algorithms%20%26%20Problem%20Solving%20Level%203/certificate-of-completion-for-algorithms-problem-solving-level-3.pdf)
+
+---
+
 ## 🚀 Final Outcome
 By completing this level, I have gained real-world practical experience that qualifies me to:
 - ✅ Solve advanced algorithmic problems confidently and without hesitation.
