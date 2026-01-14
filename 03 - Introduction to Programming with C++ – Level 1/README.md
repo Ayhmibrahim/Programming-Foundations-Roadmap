@@ -32,7 +32,7 @@ By completing this level, I have moved from "thinking" to "executing." I am now 
 - ✅ Approach advanced programming topics with a rock-solid C++ foundation.
 
 ## 🎓 Certification
-This level concludes with a **Professional Certificate in Introduction to Programming with C++ – Level 1**, verifying my readiness for advanced algorithms and systems programming.
+* **View Certificate:** 🏆 [Certificate of Completion - Introduction to Programming with C++ – Level 1](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/blob/main/03%20-%20Introduction%20to%20Programming%20with%20C%2B%2B%20%E2%80%93%20Level%201/certificate-of-completion-for-introduction-to-programming-using-c-level-1.pdf)
 
 ---
 **📂 Next Step:** ➡️ [Level 04: Algorithms & Problem-Solving (Solutions)](../04%20-%20Algorithms%20%26%20Problem-Solving%20%E2%80%93%20Level%201%20(Solutions))
