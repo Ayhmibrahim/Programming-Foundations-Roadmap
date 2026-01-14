@@ -8,7 +8,7 @@
 
 ## 🛠️ المهارات المكتسبة حتى الآن
 * **لغة C++:** فهم عميق لأساسيات اللغة، التعامل مع الذاكرة، والمؤشرات.
-* **حل المشكلات (Problem Solving):** حل أكثر من 200 تحدي خوارزمي لبناء منطق برمجي قوي.
+* **حل المشكلات (Problem Solving):** حل مئات التحديات الخوارزمية لبناء منطق برمجي قوي.
 * **إدارة البيانات:** التعامل مع الملفات النصية كقواعد بيانات بسيطة وتطوير منطق معالجة النصوص.
 * **بناء الأنظمة الوظيفية (Functional Systems):** تحويل الأفكار إلى برامج متكاملة (مثل نظام البنك والصراف الآلي).
 
@@ -18,16 +18,16 @@
 
 | المستوى | اسم المرحلة | الحالة |
 | :--- | :--- | :--- |
-| **01** | [أساسيات البرمجة - Introduction to Programming](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/01%20-%20Introduction%20to%20Programming) | ✅ تم الإنجاز |
-| **02** | [الخوارزميات وحل المشكلات 1 - Algorithms Level 1](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/02%20-%20Algorithms%20%26%20Problem%20Solving%20Level%201) | ✅ تم الإنجاز |
-| **03** | [البرمجة باستخدام C++ - المستوى الأول](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/03%20-%20C%2B%2B%20Level%201) | ✅ تم الإنجاز |
-| **04** | [الخوارزميات وحل المشكلات 2 (متطلب سابق)](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/04%20-%20Algorithms%20%26%20Problem%20Solving%20Level%202%20(Pre-requisite)) | ✅ تم الإنجاز |
-| **05** | [الخوارزميات وحل المشكلات 2 - Algorithms Level 2](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/05%20-%20Algorithms%20%26%20Problem-Solving%20%E2%80%93%20Level%202) | ✅ تم الإنجاز |
-| **06** | [البرمجة باستخدام C++ - المستوى الثاني](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/06%20-%20C%2B%2B%20Level%202) | ✅ تم الإنجاز |
-| **07** | [الخوارزميات وحل المشكلات 3 - Algorithms Level 3](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/07%20-%20Algorithms%20%26%20Problem-Solving%20%E2%80%93%20Level%203) | ✅ تم الإنجاز |
-| **08** | [الخوارزميات وحل المشكلات 4 - Algorithms Level 4](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/08%20-%20Algorithms%20%26%20Problem%20Solving%20Level%204) | ✅ تم الإنجاز |
+| **01** | [تأسيس البرمجة - المستوى الأول](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/01%20-%20Programming%20Foundations%20-%20Level%201) | ✅ تم الإنجاز |
+| **02** | [الخوارزميات وحل المشكلات - المستوى الأول](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/02-Algorithms-Problem-Solving-L1) | ✅ تم الإنجاز |
+| **03** | [المقدمة في البرمجة باستخدام C++ - المستوى الأول](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/03%20-%20Introduction%20to%20Programming%20with%20C%2B%2B%20%E2%80%93%20Level%201) | ✅ تم الإنجاز |
+| **04** | [حلول الخوارزميات وحل المشكلات - المستوى الأول](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/04%20-%20Algorithms%20%26%20Problem-Solving%20%E2%80%93%20Level%201%20(Solutions)) | ✅ تم الإنجاز |
+| **05** | [الخوارزميات وحل المشكلات - المستوى الثاني](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/05%20-%20Algorithms%20%26%20Problem-Solving%20%E2%80%93%20Level%202) | ✅ تم الإنجاز |
+| **06** | [المقدمة في البرمجة باستخدام C++ - المستوى الثاني](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/06%20-%20Introduction%20to%20Programming%20Using%20C%2B%2B%20Level%202) | ✅ تم الإنجاز |
+| **07** | [الخوارزميات وحل المشكلات - المستوى الثالث](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/07%20-%20Algorithms%20%26%20Problem%20Solving%20Level%203) | ✅ تم الإنجاز |
+| **08** | [الخوارزميات وحل المشكلات - المستوى الرابع](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/08%20-%20Algorithms%20%26%20Problem%20Solving%20Level%204) | ✅ تم الإنجاز |
 | **09** | [التأسيس البرمجي - المستوى الثاني](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/09%20-%20Foundations%20Level%202) | 🏗️ قيد التنفيذ |
-| **10** | [البرمجة الكائنية (OOP) باستخدام C++](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/10%20-%20Object-Oriented%20Programming%20(OOP)%20using%20C%2B%2B) | ✅ تم الإنجاز |
+| **10** | [البرمجة الكائنية (OOP Concepts)](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/10-OOP-as-it-Should-Be-Concepts) | ✅ تم الإنجاز |
 | **11** | [هياكل البيانات (Data Structures)](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/11%20-%20Data%20Structures) | 🏗️ قيد التنفيذ |
 
 ---
@@ -41,7 +41,7 @@
 ---
 
 ## 🚀 الغاية من هذه الرحلة
-الهدف الأساسي هو **إتمام هذه الخريطة التعليمية بالكامل** للوصول إلى بناء أساس برمي ومنطقي قوي جداً. أنا أؤمن أن الاستمرار حتى نهاية الطريق هو السبيل الوحيد لامتلاك الأدوات التي تمكنني من مواجهة أي تحديات تقنية احترافية مستقبلاً بكل ثقة.
+الهدف الأساسي هو **إتمام هذه الخريطة التعليمية بالكامل** للوصول إلى بناء أساس برمجي ومنطقي قوي جداً. أنا أؤمن أن الاستمرار حتى نهاية الطريق هو السبيل الوحيد لامتلاك الأدوات التي تمكنني من مواجهة أي تحديات تقنية احترافية مستقبلاً بكل ثقة.
 
 ---
 
