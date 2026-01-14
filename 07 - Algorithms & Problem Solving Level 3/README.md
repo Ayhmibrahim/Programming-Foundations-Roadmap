@@ -9,22 +9,25 @@ At this stage, I moved from learning "how to write code" to "how to use code to 
 
 ### 1️⃣ String Mastery
 * **Full Control:** Learned to split, join, and modify strings professionally, building custom functions to handle complex text processing.
-* **Pattern Recognition:** Gained the ability to identify and process text patterns.
+* **Pattern Recognition:** Gained the ability to identify and process text patterns, which is essential for data file handling.
 
 ### 2️⃣ 2D Arrays & Matrices
 * **Complex Data:** Learned how to represent and manipulate data in tables (rows and columns) and perform advanced mathematical operations.
 * **Spatial Thinking:** Developed the ability to visualize data flow within matrices.
 
+### 3️⃣ The 51-Problem Challenge
+* **Experience through Repetition:** Solved 51 new programming problems, each adding a new "technique" to my logical toolkit and solution engineering skills.
+
 ---
 
 ## 🛠️ Main Projects (The Practical Outcome)
-These projects represent the transition from solving isolated problems to building complete, logic-driven systems:
+These projects represent the practical application of string and file manipulation to build an integrated data management system:
 
 * **🚀 [Project 1: Bank System](https://github.com/ammmrrr18-cloud/07-Algorithms-Level-3-Bank-Project)**
-  *A comprehensive bank management system focusing on data handling, client records, and core banking logic.*
+  *Building the core structure: Focusing on client file management (Add, Show, Delete, Update) and professional conversion between Records (Structs) and text lines.*
   
-* **🚀 [Project 2: Bank System - Extension](https://github.com/ammmrrr18-cloud/Project-2---Bank-Extension---Level-7)**
-  *An advanced extension of the bank system, implementing more complex features and deeper data manipulation.*
+* **🚀 [Project 2: Transactions Menu (Bank Extension)](https://github.com/ammmrrr18-cloud/Project-2---Bank-Extension---Level-7)**
+  *Expanding the system by adding the "Transactions Menu": Including Deposit, Withdrawal, and Total Balances operations, dynamically linked to the data files.*
 
 ---
 
