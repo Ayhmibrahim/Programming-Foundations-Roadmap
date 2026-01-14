@@ -21,9 +21,20 @@ After mastering Clean Code in the previous level, this stage is designed to stre
 * **System Thinking:** This level is not just about isolated problems; it's about preparing for full software development.
 * **Pressure Testing:** Applied **Clean Code** and **Divide & Conquer** principles under more complex and high-pressure algorithmic requirements.
 
-### 4️⃣ Real-World Projects
-* **The Transition:** The course concludes with **two complete programming projects**, marking the official move from writing scripts to building software systems.
-* **Hands-on Experience:** Built functional projects from scratch using the accumulation of all previous skills.
+---
+
+## 📂 Practical Projects (Functional Systems)
+After completing the intensive problem-solving phase, I developed two **Functional Systems** to apply every concept learned. These projects mark the official transition from writing simple scripts to building structured programming applications.
+
+### 🎮 [Project 1: Stone-Paper-Scissors Game](https://github.com/ammmrrr18-cloud/Project-1-Stone---Paper---Scissor)
+An interactive game system that demonstrates **Probabilistic Logic** and professional game loops.
+* **Core Logic:** Automated decision-making rules combined with dynamic user feedback (colors and sound alerts).
+* **Technical Implementation:** Extensive use of `Structs` and `Enums` for clean state management and data flow.
+
+### 🧮 [Project 2: Math Quiz Game](https://github.com/ammmrrr18-cloud/05-Algorithms-Level-2-Project-1-Math-Game)
+A sophisticated **Question Engine** designed to generate and validate arithmetic problems dynamically.
+* **Core Logic:** Multi-level difficulty logic with support for mixed operations using intelligent randomization.
+* **Technical Implementation:** Advanced result tracking and performance reporting from start to finish.
 
 ---
 
@@ -31,7 +42,7 @@ After mastering Clean Code in the previous level, this stage is designed to stre
 By completing this level, I have evolved from a "code writer" to a "problem solver with experience." I am now able to:
 - ✅ Solve complex algorithmic problems with confidence.
 - ✅ Apply experience and professional patterns instead of "guessing" the logic.
-- ✅ Transition smoothly from solving individual problems to developing **Real Projects**.
+- ✅ Transition smoothly from solving individual problems to developing **Real-World Functional Systems**.
 
 ---
 
