@@ -1,46 +1,43 @@
-# 🎮 مشروع لعبة: حجر - ورقة - مقص (Stone-Paper-Scissors)
+# 📘 05 - Algorithms & Problem-Solving – Level 2
 
-> **"تحويل المنطق البرمجي إلى تجربة تفاعلية ممتعة."** 🚀
+> **"Practice builds experience. Experience builds real programmers."** 🧠
 
-📌 هذا المشروع هو التطبيق العملي الأول ضمن **[المستوى الخامس: Algorithms & Problem-Solving Level 2](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/05%20-%20Algorithms%20%26%20Problem-Solving%20%E2%80%93%20Level%202)** من رحلتي التعليمية. الهدف منه كان بناء لعبة متكاملة تعمل عبر شاشة التحكم (Console) مع تطبيق مبادئ البرمجة النظيفة.
-
----
-
-## 🎯 عن المشروع
-اللعبة عبارة عن تحدي بين المستخدم والكمبيوتر، حيث يقوم المستخدم باختيار عدد الجولات، وفي كل جولة يتم تحديد الفائز بناءً على قواعد اللعبة المعروفة، مع تغيير ألوان الشاشة وتنبيهات صوتية لتعزيز تجربة المستخدم.
+📌 This repository documents the fifth and most critical stage of my journey. This is the bridge where **Problem Solving** starts turning into **Real-World Programming Experience**.
 
 ---
 
-## 🛠️ المفاهيم البرمجية المستخدمة
-في هذا الكود، ركزت على تطبيق مفاهيم متقدمة لضمان كفاءة وسهولة صيانة البرنامج:
+## 🗝️ About This Level (The Path to Experience)
+After mastering Clean Code in the previous level, this stage is designed to stretch my logical thinking. The truth about programming is that it's not about syntax—it's about **Practice**. This level provided the necessary repetition to build professional intuition.
 
-* **استخدام الهياكل (Structs):** لتنظيم بيانات الجولة والنتائج النهائية.
-* **التعدادات (Enums):** لتعريف اختيارات اللعبة وحالات الفوز بشكل احترافي.
-* **توليد الأرقام العشوائية:** لضمان ذكاء قرارات الكمبيوتر.
-* **تجربة المستخدم (UX):** استخدام الألوان (نظام `system("color")`) والتنبيهات الصوتية.
+### 1️⃣ The 50-Problem Challenge (Harder & Deeper)
+* **Complex Logic:** Tackled 50 new programming problems that are significantly more advanced than Level 1.
+* **Attempt → Fail → Learn:** Focused on the process of struggling with problems first, then learning from professional solutions to expand my "logic library."
 
----
+### 2️⃣ From Logic to Patterns
+* **Recognizing Patterns:** Learned how to identify common algorithmic patterns across different problems to improve solving speed.
+* **Professional Ideas:** Exposed myself to new solution ideas and architectural approaches that go beyond basic thinking.
 
-## 🕹️ كيفية اللعب (How to Play)
-1. **تشغيل البرنامج:** قم بتشغيل ملف الكود بعد عمل Compile له.
-2. **تحديد الجولات:** سيطلب منك البرنامج إدخال عدد الجولات التي تريد لعبها (من 1 إلى 10).
-3. **اتخاذ القرار:** في كل جولة، اختر سلاحك: **[1] حجر، [2] ورقة، [3] مقص**.
-4. **النتائج الفورية:** ستظهر لك نتيجة الجولة (فوز/خسارة/تعادل) مع تغير لون الشاشة فوراً.
-5. **النتيجة النهائية:** بعد انتهاء كل الجولات، ستظهر لك لوحة شرف نهائية تلخص نتائج اللعبة بالكامل.
+### 3️⃣ Bridging to Projects
+* **System Thinking:** This level is not just about isolated problems; it's about preparing for full software development.
+* **Pressure Testing:** Applied **Clean Code** and **Divide & Conquer** principles under more complex and high-pressure algorithmic requirements.
 
----
-
-## 📂 مشاريع المستوى الخامس
-هذا المشروع هو جزء من سلسلة التطبيقات العملية للمستوى الخامس، ويمكنك أيضاً الاطلاع على المشروع الثاني في هذا المستوى:
-* **🚀 [مشروع لعبة الرياضيات (Math Quiz Game)](https://github.com/ammmrrr18-cloud/05-Algorithms-Level-2-Project-1-Math-Game)**: وهو محرك لاختبارات الرياضيات بمستويات صعوبة مختلفة.
+### 4️⃣ Real-World Projects
+* **The Transition:** The course concludes with **two complete programming projects**, marking the official move from writing scripts to building software systems.
+* **Hands-on Experience:** Built functional projects from scratch using the accumulation of all previous skills.
 
 ---
 
-## 🚀 مخرجات التعلم
-بناء هذا المشروع ساعدني على:
-- ✅ إدراك أهمية تقسيم الكود إلى دوال (Modular Programming).
-- ✅ التعامل الاحترافي مع المدخلات والتحقق من صحتها (Data Validation).
-- ✅ الربط بين الخوارزميات والتطبيق البرمجي الفعلي.
+## 🚀 Final Outcome
+By completing this level, I have evolved from a "code writer" to a "problem solver with experience." I am now able to:
+- ✅ Solve complex algorithmic problems with confidence.
+- ✅ Apply experience and professional patterns instead of "guessing" the logic.
+- ✅ Transition smoothly from solving individual problems to developing **Real Projects**.
 
 ---
-*📌 "البرمجة ليست مجرد كتابة كود، بل هي بناء نظام يعمل بدقة."*
+
+## 🎓 Certification
+* **View Certificate:** 🏆 [Certificate of Completion - Algorithms & Problem-Solving Level 2](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/blob/main/05%20-%20Algorithms%20%26%20Problem-Solving%20%E2%80%93%20Level%202/certificate-of-completion-for-algorithms-problem-solving-level-2.pdf)
+
+---
+**📂 Next Step:** ➡️ [Level 06: Introduction to Programming Using C++ – Level 2](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/06%20-%20Introduction%20to%20Programming%20Using%20C%2B%2B%20Level%202)
+*📌 "Experience is not given — it is built through repetition and reflection."*
