@@ -23,7 +23,8 @@ After mastering Clean Code in the previous level, this stage is designed to stre
 
 ### 4️⃣ Real-World Projects
 * **The Transition:** The course concludes with **two complete programming projects**, marking the official move from writing scripts to building software systems.
-* **Hands-on Experience:** Built functional projects from scratch using the accumulation of all previous skills.
+* **🚀 [Project 1: Stone-Paper-Scissors Game](https://github.com/ammmrrr18-cloud/Project-1-Stone---Paper---Scissor)**
+* **🚀 [Project 2: Math Quiz Game](https://github.com/ammmrrr18-cloud/05-Algorithms-Level-2-Project-1-Math-Game)**
 
 ---
 
