@@ -36,7 +36,7 @@ By completing this level, I have evolved from a "code writer" to a "problem solv
 ---
 
 ## 🎓 Certification
-This level concludes with a **Certificate in Algorithms & Problem-Solving – Level 2**, verifying my ability to solve intermediate-level challenges and my readiness for advanced software engineering.
+* **View Certificate:** 🏆 [Certificate of Completion - Algorithms & Problem-Solving Level 2](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/blob/main/05%20-%20Algorithms%20%26%20Problem-Solving%20%E2%80%93%20Level%202/certificate-of-completion-for-algorithms-problem-solving-level-2.pdf)
 
 ---
 **📂 Next Step:** ➡️ [Level 06: Introduction to Programming Using C++ – Level 2](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/06%20-%20Introduction%20to%20Programming%20Using%20C%2B%2B%20Level%202)
