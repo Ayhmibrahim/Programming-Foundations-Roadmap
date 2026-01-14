@@ -23,6 +23,13 @@
 * **Building Blocks:** I studied the essentials of any program: from defining **Variables** and **Constants** to understanding **Data Types**.
 * **Logic Priorities:** I mastered the priorities of arithmetic and logical operations, which is the critical rule for preventing future bugs.
 
+---
+
+## 🎓 Certification
+* **View Certificate:** 🏆 [Certificate of Completion - Programming Foundations Level 1](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/blob/main/01%20-%20Programming%20Foundations%20-%20Level%201/certificate-of-completion-for-programming-foundations-level-1.pdf)
+
+---
+
 ## 🚀 Final Outcome
 I emerged from this level with a true **"Programmer's Mindset."** I now understand why programming languages work the way they do, how code interacts with hardware, and how to think logically before writing any code.
 
