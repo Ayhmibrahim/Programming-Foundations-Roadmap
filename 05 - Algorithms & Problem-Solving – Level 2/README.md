@@ -1,41 +1,46 @@
-# 🎮 Project: Stone-Paper-Scissors Game
+# 🎮 مشروع لعبة: حجر - ورقة - مقص (Stone-Paper-Scissors)
 
-> **"A manifestation of programming logic and a practical application of automated decision-making rules."** 🚀
+> **"تحويل المنطق البرمجي إلى تجربة تفاعلية ممتعة."** 🚀
 
-📌 This project is the first practical application within **[Level 05: Algorithms & Problem-Solving Level 2](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/05%20-%20Algorithms%20%26%20Problem-Solving%20%E2%80%93%20Level%202)**. The project focuses on building an interactive system that combines **decision randomness** with **result precision** using C++.
-
----
-
-## 🛠️ Technical Concepts Used
-In this code, I focused on implementing advanced concepts to ensure efficiency and maintainability:
-
-* **Structures (Structs):** To organize round data and final game results into manageable objects.
-* **Enumerations (Enums):** To professionally define game choices and winner states, avoiding "magic numbers" in the logic.
-* **Randomization:** To ensure intelligent computer decisions and apply **Probabilistic Logic**.
-* **User Experience (UX):** Implementation of dynamic screen colors (`system("color")`) and audible alerts to provide immediate feedback.
+📌 هذا المشروع هو التطبيق العملي الأول ضمن **[المستوى الخامس: Algorithms & Problem-Solving Level 2](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/05%20-%20Algorithms%20%26%20Problem-Solving%20%E2%80%93%20Level%202)** من رحلتي التعليمية. الهدف منه كان بناء لعبة متكاملة تعمل عبر شاشة التحكم (Console) مع تطبيق مبادئ البرمجة النظيفة.
 
 ---
 
-## 🕹️ How to Play
-1.  **Run the Program:** Compile and execute the source code.
-2.  **Set Rounds:** Enter the number of rounds you wish to play (1 to 10).
-3.  **Make a Choice:** In each round, choose your weapon: **[1] Stone, [2] Paper, [3] Scissor**.
-4.  **Instant Feedback:** The round result is displayed immediately with a corresponding screen color change (Green for Win, Red for Loss).
-5.  **Final Report:** After all rounds, a final "Game Over" screen summarizes the entire performance.
+## 🎯 عن المشروع
+اللعبة عبارة عن تحدي بين المستخدم والكمبيوتر، حيث يقوم المستخدم باختيار عدد الجولات، وفي كل جولة يتم تحديد الفائز بناءً على قواعد اللعبة المعروفة، مع تغيير ألوان الشاشة وتنبيهات صوتية لتعزيز تجربة المستخدم.
 
 ---
 
-## 📂 Level 05 Projects
-This project is part of a series of applications for Level 05. You can also explore the second project:
-* **🚀 [Math Quiz Game](https://github.com/ammmrrr18-cloud/05-Algorithms-Level-2-Project-1-Math-Game)**: An intelligent question engine that generates and validates dynamic arithmetic problems automatically based on programmed difficulty levels.
+## 🛠️ المفاهيم البرمجية المستخدمة
+في هذا الكود، ركزت على تطبيق مفاهيم متقدمة لضمان كفاءة وسهولة صيانة البرنامج:
+
+* **استخدام الهياكل (Structs):** لتنظيم بيانات الجولة والنتائج النهائية.
+* **التعدادات (Enums):** لتعريف اختيارات اللعبة وحالات الفوز بشكل احترافي.
+* **توليد الأرقام العشوائية:** لضمان ذكاء قرارات الكمبيوتر.
+* **تجربة المستخدم (UX):** استخدام الألوان (نظام `system("color")`) والتنبيهات الصوتية.
 
 ---
 
-## 🚀 Learning Outcomes
-Building this project helped me master:
-- ✅ **Modular Programming:** Breaking down the system into specialized, reusable functions.
-- ✅ **Data Validation:** Professionally handling and validating user inputs to ensure system stability.
-- ✅ **Algorithm Implementation:** Bridging the gap between theoretical game logic and functional code.
+## 🕹️ كيفية اللعب (How to Play)
+1. **تشغيل البرنامج:** قم بتشغيل ملف الكود بعد عمل Compile له.
+2. **تحديد الجولات:** سيطلب منك البرنامج إدخال عدد الجولات التي تريد لعبها (من 1 إلى 10).
+3. **اتخاذ القرار:** في كل جولة، اختر سلاحك: **[1] حجر، [2] ورقة، [3] مقص**.
+4. **النتائج الفورية:** ستظهر لك نتيجة الجولة (فوز/خسارة/تعادل) مع تغير لون الشاشة فوراً.
+5. **النتيجة النهائية:** بعد انتهاء كل الجولات، ستظهر لك لوحة شرف نهائية تلخص نتائج اللعبة بالكامل.
 
 ---
-*📌 "Programming isn't just about writing code; it's about building a system that operates with precision."*
+
+## 📂 مشاريع المستوى الخامس
+هذا المشروع هو جزء من سلسلة التطبيقات العملية للمستوى الخامس، ويمكنك أيضاً الاطلاع على المشروع الثاني في هذا المستوى:
+* **🚀 [مشروع لعبة الرياضيات (Math Quiz Game)](https://github.com/ammmrrr18-cloud/05-Algorithms-Level-2-Project-1-Math-Game)**: وهو محرك لاختبارات الرياضيات بمستويات صعوبة مختلفة.
+
+---
+
+## 🚀 مخرجات التعلم
+بناء هذا المشروع ساعدني على:
+- ✅ إدراك أهمية تقسيم الكود إلى دوال (Modular Programming).
+- ✅ التعامل الاحترافي مع المدخلات والتحقق من صحتها (Data Validation).
+- ✅ الربط بين الخوارزميات والتطبيق البرمجي الفعلي.
+
+---
+*📌 "البرمجة ليست مجرد كتابة كود، بل هي بناء نظام يعمل بدقة."*
