@@ -8,24 +8,24 @@ class clsInputValidate
 public:
 
 
-	bool IsNumberBetween(short Num, short From, short To)
+	static bool IsNumberBetween(short Num, short From, short To)
 	{
 		return (Num >= From && Num <= To);
 
 	}
 
-	bool IsNumberBetween(int Num,int From,int To)
+	static bool IsNumberBetween(int Num,int From,int To)
 	{
 		return (Num >= From && Num <= To);
 			
 	}
 
-	bool IsNumberBetween(float Num, float From, float To)
+	static bool IsNumberBetween(float Num, float From, float To)
 	{
 		return (Num >= From && Num <= To);
 	}
 
-	bool IsNumberBetween(double Num, double From, double To)
+	static bool IsNumberBetween(double Num, double From, double To)
 	{
 		return (Num >= From && Num <= To);
 	}
