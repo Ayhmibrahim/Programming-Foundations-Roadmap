@@ -392,7 +392,7 @@ public:
         if (Amount <= 0)
         {
             return false;
-        }]
+        }
 
         _AccountBalance += Amount;
         Save();
