@@ -60,47 +60,42 @@ private:
 
     static void _PerformManageUsersMenueOption(enManageUsersMenueOptions ManageUsersMenueOption)
     {
+        system("cls");
 
         switch (ManageUsersMenueOption)
         {
         case enManageUsersMenueOptions::eListUsers:
         {
-            system("cls");
+            
             _ShowListUsersScreen();
-            _GoBackToManageUsersMenue();
             break;
         }
 
         case enManageUsersMenueOptions::eAddNewUser:
         {
-            system("cls");
+            
             _ShowAddNewUserScreen();
-            _GoBackToManageUsersMenue();
             break;
         }
 
         case enManageUsersMenueOptions::eDeleteUser:
         {
-            system("cls");
+            
             _ShowDeleteUserScreen();
-            _GoBackToManageUsersMenue();
             break;
         }
 
         case enManageUsersMenueOptions::eUpdateUser:
         {
-            system("cls");
+            
             _ShowUpdateUserScreen();
-            _GoBackToManageUsersMenue();
             break;
         }
 
         case enManageUsersMenueOptions::eFindUser:
         {
-            system("cls");
-
-             _ShowFindUserScreen();
-            _GoBackToManageUsersMenue();
+          
+            _ShowFindUserScreen();
             break;
         }
 
@@ -109,6 +104,9 @@ private:
             //do nothing here the main screen will handle it :-) ;
         }
         }
+
+        if (ManageUsersMenueOption != enManageUsersMenueOptions::eMainMenue)
+            _GoBackToManageUsersMenue();
 
     }
 
