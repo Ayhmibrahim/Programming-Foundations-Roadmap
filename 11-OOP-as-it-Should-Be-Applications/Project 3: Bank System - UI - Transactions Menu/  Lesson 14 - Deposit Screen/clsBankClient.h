@@ -391,11 +391,17 @@ public:
         Save();
     }
 
-    void Withdraw(double Amount)
+  bool Deposit(double Amount)
     {
-        _AccountBalance -= Amount;
+
+        if (Amount <= 0)
+        {
+            return false;
+        }
+
+        _AccountBalance += Amount;
         Save();
-    }
+        return true;
 
 
 
